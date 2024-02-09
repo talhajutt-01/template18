@@ -1,0 +1,258 @@
+{
+    //used to change the text of title at index.html
+    "title": {
+        "title": "Updated Tooplate's Little Fashion"
+    },
+ // identify that you can manipulate the elements of navbar nav0 is the first element and so on
+    "nav": {
+        "nav0": "Home",
+        "nav1": "Story",
+        "nav2": "Products",
+        "nav3": "FAQs",
+        "nav4": "Contact"
+     },
+// modify the elemnts of banner each banner have 3 elemnts 2 for text one as a button i.e s2,s5,s6
+      "slide": {
+        "s0": "Cool Fashion",
+        "s1": "Little fashion template comes with total 8 HTML pages provided by Tooplate website.",
+        "s2": "Learn more about us",
+        "s3": "New Design",
+        "s4": "Please share this Little Fashion template to your friends. Thank you for supporting us.",
+        "s5": "Explore products",
+        "s6": "Talk to us",
+        "s7": "Tooplate is one of the best HTML CSS template websites for everyone.",
+        "s8": "Work with us"
+    },
+
+     //modify the elemnts of about all text and a2,a7,a6 are buttons
+     "about": {
+        "a0": "Good Ideas for fashion",
+        "a1": "Little Fashion templates comes with pages, product listing / product detail, about, FAQs, and contact page.",
+        "a2": "Since this HTML template is based on Boostrap 5 CSS library, you can feel free to add more components as you need.",
+        "a3": "Learn more about us",
+        "a4": "Life at Studio",
+        "a5": "Over three years in business, We’ve had the chance to work on a variety of projects, with companies",
+        "a6": "Custom work is branding, web design, UI/UX design",
+        "a7": "Work with us",
+        "a8": "What can help you?",
+        "a9": "Over three years in business, We’ve had the chance on projects",
+        "a10": "Branding",
+        "a11": "90%",
+        "a12": "Design and Stragety",
+        "a13": "70%",
+        "a14": "Online Platform",
+        "a15": "80%",
+        "a16": "Explore products"
+    },
+ //modify the elemnts of product section at home page
+     "product": {
+        "p0": "Home",
+        "p1": "Category",
+        "p2": "Products"
+     },
+ //modify the elemnts of products at home page
+      "fproduct": {
+        "fp": "Featured Products",
+        "fp0": "New Arrival",
+        "fp1": "Tree pot",
+        "fp2": "Original package design from house",
+        "fp3": "$25",
+        "fp4": "Low Price",
+        "fp5": "Fashion Set",
+        "fp6": "Costume Package",
+        "fp7": "$35",
+        "fp8": "Juice Drinks",
+        "fp9": "Nature made another world",
+        "fp10": "$45",
+        "fp11": "View All Products"
+    },
+ //modify the elemnts of footer
+     "footer": {
+        "f0": "Little",
+        "f1": "Copyright © 2022",
+        "f2": "Little Fashion",
+        "f3": "Designed by",
+        "f4": "Tooplate",
+        "f5": "Sitemap",
+        "f6": "Story",
+        "f7": "Products",
+        "f8": "Privacy policy",
+        "f9": "FAQs",
+        "f10": "Contact",
+        "f11": "Social"
+     },
+ //modify the elemnts of haeders
+       "header": {
+        //at about
+        "h0": "Company",
+        "h1": "Fashion",
+        //at faq
+        "h2": "Your favorite questions",
+        "h3": "and our answers to them",
+        //at productdetail
+        "h4": "We provide you",
+        "h5": "Fashionable Stuffs"
+     },
+
+ //modify the elemnts of at about.html of team 
+    "team": {
+        "t0": "Meet our",
+        "t1": "team",
+        "t2": "Don",
+        "t3": "Product, VP",
+        "t4": "Kelly",
+        "t5": "Marketing",
+        "t6": "Marie",
+        "t7": "Founder",
+        "t8": "Don Haruko",
+        "t9": "Product, VP",
+        "t10": "Over three years in business had the chance to work on variety of projects, with companies",
+        "t11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        "t12": "Incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse commodo viverra.",
+        "t13": "Where to find?",
+        "t14": "Kelly Lisa",
+        "t15": "Global, Head of Marketing",
+        "t16": "Over three years in business had the chance to work on variety of projects, with companies",
+        "t17": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "t18": "Incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse commodo viverra.",
+        "t19": "Where to find?",
+        "t20": "Marie Sam",
+        "t21": "Founder and CEO",
+        "t22": "Over three years in business had the chance to work on variety of projects, with companies",
+        "t23": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "t24": "Incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse commodo viverra.",
+        "t25": "Where to find?"
+    },
+
+ //modify the elemnts of at about.html of testimonial section
+    "testimonial": {
+        "te0": "Customer love, Fashion",
+        "te1": "Over three years in business, We’ve had the chance to work on a variety of projects, with companies Lorem ipsum dolor sit amet",
+        "te2": "George, ",
+        "te3": "Digital Art Fashion",
+        "te4": "Over three years in business, We’ve had the chance to work on a variety of projects, with companies Lorem ipsum dolor sit amet",
+        "te5": "Sandar,",
+        "te6": "Zoom Fashion Idea",
+        "te7": "Over three years in business, We’ve had the chance to work on a variety of projects, with companies Lorem ipsum dolor sit amet",
+        "te8": "Marie, ",
+        "te9": "Art Fashion Design",
+        "te10": "Over three years in business, We’ve had the chance to work on a variety of projects, with companies Lorem ipsum dolor sit amet",
+        "te11": "Catherine,",
+        "te12": "Dress Fashion,"
+    },
+ //modify the elemnts of at contact.html header
+     "contact": {
+        "c0": "Say hello to us",
+        "c1": "love to hear you"
+     }
+ //modify the elemnts of faq
+      "faq": {
+        "fa0": "General Info.",
+        "fa1": "What is this Little Fashion?",
+        "fa2": "is free Bootstrap 5 website template for everyone. There are 8 HTML pages included in this template and you can expand more pages as you need.",
+        "fa3": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "fa4": "What is Tooplate website?",
+        "fa5": "is a great website to download free HTML website templates for your business or personal use. Tooplate website has been online for almost 8 years now. Thank you for visiting our website.",
+        "fa6": "How do I support your website?",
+        "fa7": "You can support our Tooplate website by sharing it to your friends or colleagues on the web or social media.",
+        "fa8": "About",
+        "fa9": "What is Fashion Design?",
+        "fa10": "sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+        "fa11": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "fa12": "How do I use the product?",
+        "fa13": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+     },
+ //modify the elemnts of at product details
+     "productdetail": {
+        "pd0": "Tree pot",
+        "pd1": "Original package design from house",
+        "pd2": "Description",
+        "pd3": "Over three years in business, We’ve had the chance to work on a variety of projects, with companies",
+        "pd4": "Add to Cart",
+        "pd5": "Details",
+        "pd6": "Delivery and Payment",
+        "pd7": "You might also like",
+        "pd8": "New arrival",
+        "pd9": "Original package design from house",
+        "pd10": "$25",
+        "pd11": "Low Price",
+        "pd12": "Fashion set",
+        "pd13": "Costume package",
+        "pd14": "$35",
+        "pd15": "Juice Drinks",
+        "pd16": "Nature made another world",
+        "pd17": "$45"
+     },
+
+
+
+ //modify the color scheme
+    "color": {
+        "nav": ".",
+        "slide": ".",
+        "about": ".",
+        "fproduct": ".",
+        "product": ".",
+        "rproduct": ".",
+        "footer": ".",
+        "header": ".",
+        "team": ".",
+        "testimonial": ".",
+        "contact": ".",
+        "faq": "."
+    }
+
+}
+
+{
+     "images": {
+        //images at slides
+        "img1": "images/slideshow/medium-shot-business-women-high-five.jpeg",
+        "img2": "images/slideshow/team-meeting-renewable-energy-project.jpeg",
+        "img3": "images/slideshow/two-business-partners-working-together-office-computer.jpeg",
+
+        //of about at home page
+        "img4": "images/pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+        "img5": "images/cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+
+        //of product at home page
+        "img6": "images/retail-shop-owner-mask-social-distancing-shopping.jpg",
+
+        //of feature product at home page
+        "img7": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+        "img8": "images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+        "img9": "images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+
+        //at about.html header
+        "img10": "images/header/businesspeople-meeting-office-working.jpg",
+
+        //at about.html of team
+        "img11": "images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+        "img12": "images/people/portrait-british-woman.jpeg",
+        "img13": "images/people/beautiful-woman-face-portrait-brown-background.jpeg",
+
+        //at about.html of testimonial
+        "img14": "images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+        "img15": "images/people/beautiful-woman-face-portrait-brown-background.jpeg",
+        "img16": "images/people/portrait-british-woman.jpeg",
+        "img17": "images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+
+        //at contact.html of contact
+        "img18": "images/header/positive-european-woman-has-break-after-work.jpg",
+
+        //at product-detail.html of products
+        "img19": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+        "img20": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+        "img21": "images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+        "img22": "images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+        "img23": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+
+        //at product.html of products
+        "img24": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+        "img25": "images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+        "img26": "images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+        "img27": "images/product/team-fredi-8HRKoay8VJE-unsplash.jpeg",
+        "img28": "images/product/quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+        "img29": "images/product/anis-m-WnVrO-DvxcE-unsplash.jpeg"
+    }
+}

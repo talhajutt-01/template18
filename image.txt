@@ -1,0 +1,33 @@
+{
+     "images": {
+        "img1": "images/slideshow/medium-shot-business-women-high-five.jpeg",
+        "img2": "images/slideshow/team-meeting-renewable-energy-project.jpeg",
+        "img3": "images/slideshow/two-business-partners-working-together-office-computer.jpeg",
+        "img4": "images/pim-chu-z6NZ76_UTDI-unsplash.jpeg",
+        "img5": "images/cody-lannom-G95AReIh_Ko-unsplash.jpeg",
+        "img6": "images/retail-shop-owner-mask-social-distancing-shopping.jpg",
+        "img7": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+        "img8": "images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+        "img9": "images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+        "img10": "images/header/businesspeople-meeting-office-working.jpg",
+        "img11": "images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+        "img12": "images/people/portrait-british-woman.jpeg",
+        "img13": "images/people/beautiful-woman-face-portrait-brown-background.jpeg",
+        "img14": "images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg",
+        "img15": "images/people/beautiful-woman-face-portrait-brown-background.jpeg",
+        "img16": "images/people/portrait-british-woman.jpeg",
+        "img17": "images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg",
+        "img18": "images/header/positive-european-woman-has-break-after-work.jpg",
+        "img19": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+        "img20": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+        "img21": "images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+        "img22": "images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+        "img23": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+        "img24": "images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg",
+        "img25": "images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg",
+        "img26": "images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg",
+        "img27": "images/product/team-fredi-8HRKoay8VJE-unsplash.jpeg",
+        "img28": "images/product/quokkabottles-kFc1_G1GvKA-unsplash.jpeg",
+        "img29": "images/product/anis-m-WnVrO-DvxcE-unsplash.jpeg"
+    }
+}
